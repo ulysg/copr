@@ -1,7 +1,7 @@
 %bcond_without check
 
 Name:           xwayland-satellite
-Version:        0.8.1
+Version:        0.8.2
 Release:        %autorelease
 Summary:        Run Xwayland apps with any Wayland compositor
 
