@@ -1,7 +1,7 @@
 %bcond_without check
 
 Name:           way-edges
-Version:        0.12.1
+Version:        0.12.2
 Release:        %autorelease
 Summary:        Light weight wayland client focusing on widgets hidden in your screen edge.
 
